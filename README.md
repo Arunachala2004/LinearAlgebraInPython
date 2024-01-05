@@ -1,0 +1,1 @@
+Linear algebra is a branch of mathematics that deals with linear equations and their representations using vectors and matrices. It’s a fundamental subject in several areas of engineering, and it’s a prerequisite to a deeper understanding of machine learning.
