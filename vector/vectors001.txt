@@ -1,0 +1,12 @@
+A vector is an ordered collection of scalars. It can be represented in two forms:
+
+Column vector: Contains n rows and 1 column
+Row vector: Contains 1 row and n columns
+The number of scalars in a vector is called its dimension or order. 
+
+Example: A column vector 'u' of dimension 2 is illustrated below:
+
+
+
+Example: A row vector 'v' of dimension 3 is illustrated below:
+
